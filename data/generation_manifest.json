@@ -1,0 +1,2896 @@
+{
+ "schema_version": 1,
+ "updated_at": "2026-11-11T23:09:38Z",
+ "images": {
+  "portrait/base": {
+   "base_prompt_id": "portrait",
+   "style_id": "base",
+   "kind": "base",
+   "status": "complete",
+   "path": "images/portrait/base.webp",
+   "seed": 123456789,
+   "width": 3072,
+   "height": 5472
+  },
+  "portrait/anime-style": {
+   "base_prompt_id": "portrait",
+   "style_id": "anime-style",
+   "kind": "style",
+   "status": "complete",
+   "path": "images/portrait/anime-style.webp",
+   "seed": 123456789,
+   "width": 3072,
+   "height": 5472
+  },
+  "portrait/ghibli-style": {
+   "base_prompt_id": "portrait",
+   "style_id": "ghibli-style",
+   "kind": "style",
+   "status": "complete",
+   "path": "images/portrait/ghibli-style.webp",
+   "seed": 123456789,
+   "width": 3072,
+   "height": 5472
+  },
+  "portrait/70s-anime": {
+   "base_prompt_id": "portrait",
+   "style_id": "70s-anime",
+   "kind": "style",
+   "status": "complete",
+   "path": "images/portrait/70s-anime.webp",
+   "seed": 123456789,
+   "width": 3072,
+   "height": 5472
+  },
+  "portrait/chibi-anime": {
+   "base_prompt_id": "portrait",
+   "style_id": "chibi-anime",
+   "kind": "style",
+   "status": "complete",
+   "path": "images/portrait/chibi-anime.webp",
+   "seed": 123456789,
+   "width": 3072,
+   "height": 5472
+  },
+  "portrait/my-hero-academia-style": {
+   "base_prompt_id": "portrait",
+   "style_id": "my-hero-academia-style",
+   "kind": "style",
+   "status": "complete",
+   "path": "images/portrait/my-hero-academia-style.webp",
+   "seed": 123456789,
+   "width": 3072,
+   "height": 5472
+  },
+  "portrait/granblue-fantasy-pin-up-style": {
+   "base_prompt_id": "portrait",
+   "style_id": "granblue-fantasy-pin-up-style",
+   "kind": "style",
+   "status": "complete",
+   "path": "images/portrait/granblue-fantasy-pin-up-style.webp",
+   "seed": 123456789,
+   "width": 3072,
+   "height": 5472
+  },
+  "portrait/manga-style": {
+   "base_prompt_id": "portrait",
+   "style_id": "manga-style",
+   "kind": "style",
+   "status": "complete",
+   "path": "images/portrait/manga-style.webp",
+   "seed": 123456789,
+   "width": 3072,
+   "height": 5472
+  },
+  "portrait/akira-toriyama-style": {
+   "base_prompt_id": "portrait",
+   "style_id": "akira-toriyama-style",
+   "kind": "style",
+   "status": "complete",
+   "path": "images/portrait/akira-toriyama-style.webp",
+   "seed": 123456789,
+   "width": 3072,
+   "height": 5472
+  },
+  "portrait/chainsaw-man-style": {
+   "base_prompt_id": "portrait",
+   "style_id": "chainsaw-man-style",
+   "kind": "style",
+   "status": "complete",
+   "path": "images/portrait/chainsaw-man-style.webp",
+   "seed": 123456789,
+   "width": 3072,
+   "height": 5472
+  },
+  "portrait/shindol-style": {
+   "base_prompt_id": "portrait",
+   "style_id": "shindol-style",
+   "kind": "style",
+   "status": "complete",
+   "path": "images/portrait/shindol-style.webp",
+   "seed": 123456789,
+   "width": 3072,
+   "height": 5472
+  },
+  "portrait/one-piece-style": {
+   "base_prompt_id": "portrait",
+   "style_id": "one-piece-style",
+   "kind": "style",
+   "status": "complete",
+   "path": "images/portrait/one-piece-style.webp",
+   "seed": 123456789,
+   "width": 3072,
+   "height": 5472
+  },
+  "portrait/cartoon-style": {
+   "base_prompt_id": "portrait",
+   "style_id": "cartoon-style",
+   "kind": "style",
+   "status": "complete",
+   "path": "images/portrait/cartoon-style.webp",
+   "seed": 123456789,
+   "width": 3072,
+   "height": 5472
+  },
+  "portrait/steven-universe-style": {
+   "base_prompt_id": "portrait",
+   "style_id": "steven-universe-style",
+   "kind": "style",
+   "status": "complete",
+   "path": "images/portrait/steven-universe-style.webp",
+   "seed": 123456789,
+   "width": 3072,
+   "height": 5472
+  },
+  "portrait/adventure-time-style": {
+   "base_prompt_id": "portrait",
+   "style_id": "adventure-time-style",
+   "kind": "style",
+   "status": "complete",
+   "path": "images/portrait/adventure-time-style.webp",
+   "seed": 123456789,
+   "width": 3072,
+   "height": 5472
+  },
+  "portrait/hanna-barbera-style": {
+   "base_prompt_id": "portrait",
+   "style_id": "hanna-barbera-style",
+   "kind": "style",
+   "status": "complete",
+   "path": "images/portrait/hanna-barbera-style.webp",
+   "seed": 123456789,
+   "width": 3072,
+   "height": 5472
+  },
+  "portrait/rubber-hose-cartoon": {
+   "base_prompt_id": "portrait",
+   "style_id": "rubber-hose-cartoon",
+   "kind": "style",
+   "status": "complete",
+   "path": "images/portrait/rubber-hose-cartoon.webp",
+   "seed": 123456789,
+   "width": 3072,
+   "height": 5472
+  },
+  "portrait/disney-ultradetailed-illustration": {
+   "base_prompt_id": "portrait",
+   "style_id": "disney-ultradetailed-illustration",
+   "kind": "style",
+   "status": "complete",
+   "path": "images/portrait/disney-ultradetailed-illustration.webp",
+   "seed": 123456789,
+   "width": 3072,
+   "height": 5472
+  },
+  "portrait/drawing": {
+   "base_prompt_id": "portrait",
+   "style_id": "drawing",
+   "kind": "style",
+   "status": "complete",
+   "path": "images/portrait/drawing.webp",
+   "seed": 123456789,
+   "width": 3072,
+   "height": 5472
+  },
+  "portrait/chinese-ink-drawing": {
+   "base_prompt_id": "portrait",
+   "style_id": "chinese-ink-drawing",
+   "kind": "style",
+   "status": "complete",
+   "path": "images/portrait/chinese-ink-drawing.webp",
+   "seed": 123456789,
+   "width": 3072,
+   "height": 5472
+  },
+  "portrait/fashion-sketch": {
+   "base_prompt_id": "portrait",
+   "style_id": "fashion-sketch",
+   "kind": "style",
+   "status": "complete",
+   "path": "images/portrait/fashion-sketch.webp",
+   "seed": 123456789,
+   "width": 3072,
+   "height": 5472
+  },
+  "portrait/technical-drawing": {
+   "base_prompt_id": "portrait",
+   "style_id": "technical-drawing",
+   "kind": "style",
+   "status": "complete",
+   "path": "images/portrait/technical-drawing.webp",
+   "seed": 123456789,
+   "width": 3072,
+   "height": 5472
+  },
+  "portrait/playful-hand-drawn-illustration": {
+   "base_prompt_id": "portrait",
+   "style_id": "playful-hand-drawn-illustration",
+   "kind": "style",
+   "status": "complete",
+   "path": "images/portrait/playful-hand-drawn-illustration.webp",
+   "seed": 123456789,
+   "width": 3072,
+   "height": 5472
+  },
+  "portrait/very-simplistic-doodle": {
+   "base_prompt_id": "portrait",
+   "style_id": "very-simplistic-doodle",
+   "kind": "style",
+   "status": "complete",
+   "path": "images/portrait/very-simplistic-doodle.webp",
+   "seed": 123456789,
+   "width": 3072,
+   "height": 5472
+  },
+  "portrait/photography": {
+   "base_prompt_id": "portrait",
+   "style_id": "photography",
+   "kind": "style",
+   "status": "complete",
+   "path": "images/portrait/photography.webp",
+   "seed": 123456789,
+   "width": 3072,
+   "height": 5472
+  },
+  "portrait/analog-photography": {
+   "base_prompt_id": "portrait",
+   "style_id": "analog-photography",
+   "kind": "style",
+   "status": "complete",
+   "path": "images/portrait/analog-photography.webp",
+   "seed": 123456789,
+   "width": 3072,
+   "height": 5472
+  },
+  "portrait/black-and-white-documentary": {
+   "base_prompt_id": "portrait",
+   "style_id": "black-and-white-documentary",
+   "kind": "style",
+   "status": "complete",
+   "path": "images/portrait/black-and-white-documentary.webp",
+   "seed": 123456789,
+   "width": 3072,
+   "height": 5472
+  },
+  "portrait/brassai-night-photography": {
+   "base_prompt_id": "portrait",
+   "style_id": "brassai-night-photography",
+   "kind": "style",
+   "status": "complete",
+   "path": "images/portrait/brassai-night-photography.webp",
+   "seed": 123456789,
+   "width": 3072,
+   "height": 5472
+  },
+  "portrait/cinematic-photography": {
+   "base_prompt_id": "portrait",
+   "style_id": "cinematic-photography",
+   "kind": "style",
+   "status": "complete",
+   "path": "images/portrait/cinematic-photography.webp",
+   "seed": 123456789,
+   "width": 3072,
+   "height": 5472
+  },
+  "portrait/selfie-photo": {
+   "base_prompt_id": "portrait",
+   "style_id": "selfie-photo",
+   "kind": "style",
+   "status": "complete",
+   "path": "images/portrait/selfie-photo.webp",
+   "seed": 123456789,
+   "width": 3072,
+   "height": 5472
+  },
+  "portrait/comics-style": {
+   "base_prompt_id": "portrait",
+   "style_id": "comics-style",
+   "kind": "style",
+   "status": "complete",
+   "path": "images/portrait/comics-style.webp",
+   "seed": 123456789,
+   "width": 3072,
+   "height": 5472
+  },
+  "portrait/alternative-comics-style": {
+   "base_prompt_id": "portrait",
+   "style_id": "alternative-comics-style",
+   "kind": "style",
+   "status": "complete",
+   "path": "images/portrait/alternative-comics-style.webp",
+   "seed": 123456789,
+   "width": 3072,
+   "height": 5472
+  },
+  "portrait/amanda-conner-illustration": {
+   "base_prompt_id": "portrait",
+   "style_id": "amanda-conner-illustration",
+   "kind": "style",
+   "status": "complete",
+   "path": "images/portrait/amanda-conner-illustration.webp",
+   "seed": 123456789,
+   "width": 3072,
+   "height": 5472
+  },
+  "portrait/hellboy-style": {
+   "base_prompt_id": "portrait",
+   "style_id": "hellboy-style",
+   "kind": "style",
+   "status": "complete",
+   "path": "images/portrait/hellboy-style.webp",
+   "seed": 123456789,
+   "width": 3072,
+   "height": 5472
+  },
+  "portrait/bruce-timm-noir": {
+   "base_prompt_id": "portrait",
+   "style_id": "bruce-timm-noir",
+   "kind": "style",
+   "status": "complete",
+   "path": "images/portrait/bruce-timm-noir.webp",
+   "seed": 123456789,
+   "width": 3072,
+   "height": 5472
+  },
+  "portrait/graphic-novel": {
+   "base_prompt_id": "portrait",
+   "style_id": "graphic-novel",
+   "kind": "style",
+   "status": "complete",
+   "path": "images/portrait/graphic-novel.webp",
+   "seed": 123456789,
+   "width": 3072,
+   "height": 5472
+  },
+  "portrait/design": {
+   "base_prompt_id": "portrait",
+   "style_id": "design",
+   "kind": "style",
+   "status": "complete",
+   "path": "images/portrait/design.webp",
+   "seed": 123456789,
+   "width": 3072,
+   "height": 5472
+  },
+  "portrait/corporate-memphis": {
+   "base_prompt_id": "portrait",
+   "style_id": "corporate-memphis",
+   "kind": "style",
+   "status": "complete",
+   "path": "images/portrait/corporate-memphis.webp",
+   "seed": 123456789,
+   "width": 3072,
+   "height": 5472
+  },
+  "portrait/soviet-propaganda-poster": {
+   "base_prompt_id": "portrait",
+   "style_id": "soviet-propaganda-poster",
+   "kind": "style",
+   "status": "complete",
+   "path": "images/portrait/soviet-propaganda-poster.webp",
+   "seed": 123456789,
+   "width": 3072,
+   "height": 5472
+  },
+  "portrait/graphic-flat-vector-travel-poster-illustration": {
+   "base_prompt_id": "portrait",
+   "style_id": "graphic-flat-vector-travel-poster-illustration",
+   "kind": "style",
+   "status": "complete",
+   "path": "images/portrait/graphic-flat-vector-travel-poster-illustration.webp",
+   "seed": 123456789,
+   "width": 3072,
+   "height": 5472
+  },
+  "portrait/poster-art": {
+   "base_prompt_id": "portrait",
+   "style_id": "poster-art",
+   "kind": "style",
+   "status": "complete",
+   "path": "images/portrait/poster-art.webp",
+   "seed": 123456789,
+   "width": 3072,
+   "height": 5472
+  },
+  "portrait/contemporary-commercial-illustration": {
+   "base_prompt_id": "portrait",
+   "style_id": "contemporary-commercial-illustration",
+   "kind": "style",
+   "status": "complete",
+   "path": "images/portrait/contemporary-commercial-illustration.webp",
+   "seed": 123456789,
+   "width": 3072,
+   "height": 5472
+  },
+  "portrait/painting": {
+   "base_prompt_id": "portrait",
+   "style_id": "painting",
+   "kind": "style",
+   "status": "complete",
+   "path": "images/portrait/painting.webp",
+   "seed": 123456789,
+   "width": 3072,
+   "height": 5472
+  },
+  "portrait/van-gogh-style": {
+   "base_prompt_id": "portrait",
+   "style_id": "van-gogh-style",
+   "kind": "style",
+   "status": "complete",
+   "path": "images/portrait/van-gogh-style.webp",
+   "seed": 123456789,
+   "width": 3072,
+   "height": 5472
+  },
+  "portrait/cubism": {
+   "base_prompt_id": "portrait",
+   "style_id": "cubism",
+   "kind": "style",
+   "status": "complete",
+   "path": "images/portrait/cubism.webp",
+   "seed": 123456789,
+   "width": 3072,
+   "height": 5472
+  },
+  "portrait/jackson-pollock-style": {
+   "base_prompt_id": "portrait",
+   "style_id": "jackson-pollock-style",
+   "kind": "style",
+   "status": "complete",
+   "path": "images/portrait/jackson-pollock-style.webp",
+   "seed": 123456789,
+   "width": 3072,
+   "height": 5472
+  },
+  "portrait/academic-precision-realism": {
+   "base_prompt_id": "portrait",
+   "style_id": "academic-precision-realism",
+   "kind": "style",
+   "status": "complete",
+   "path": "images/portrait/academic-precision-realism.webp",
+   "seed": 123456789,
+   "width": 3072,
+   "height": 5472
+  },
+  "portrait/wet-on-wet-watercolor-ink-painting": {
+   "base_prompt_id": "portrait",
+   "style_id": "wet-on-wet-watercolor-ink-painting",
+   "kind": "style",
+   "status": "complete",
+   "path": "images/portrait/wet-on-wet-watercolor-ink-painting.webp",
+   "seed": 123456789,
+   "width": 3072,
+   "height": 5472
+  },
+  "portrait/alex-ross-style": {
+   "base_prompt_id": "portrait",
+   "style_id": "alex-ross-style",
+   "kind": "style",
+   "status": "complete",
+   "path": "images/portrait/alex-ross-style.webp",
+   "seed": 123456789,
+   "width": 3072,
+   "height": 5472
+  },
+  "portrait/artgerm-style": {
+   "base_prompt_id": "portrait",
+   "style_id": "artgerm-style",
+   "kind": "style",
+   "status": "complete",
+   "path": "images/portrait/artgerm-style.webp",
+   "seed": 123456789,
+   "width": 3072,
+   "height": 5472
+  },
+  "portrait/boris-vallejo-style": {
+   "base_prompt_id": "portrait",
+   "style_id": "boris-vallejo-style",
+   "kind": "style",
+   "status": "complete",
+   "path": "images/portrait/boris-vallejo-style.webp",
+   "seed": 123456789,
+   "width": 3072,
+   "height": 5472
+  },
+  "portrait/pin-up": {
+   "base_prompt_id": "portrait",
+   "style_id": "pin-up",
+   "kind": "style",
+   "status": "complete",
+   "path": "images/portrait/pin-up.webp",
+   "seed": 123456789,
+   "width": 3072,
+   "height": 5472
+  },
+  "portrait/american-comic-realism": {
+   "base_prompt_id": "portrait",
+   "style_id": "american-comic-realism",
+   "kind": "style",
+   "status": "complete",
+   "path": "images/portrait/american-comic-realism.webp",
+   "seed": 123456789,
+   "width": 3072,
+   "height": 5472
+  },
+  "portrait/rossdraws-style": {
+   "base_prompt_id": "portrait",
+   "style_id": "rossdraws-style",
+   "kind": "style",
+   "status": "complete",
+   "path": "images/portrait/rossdraws-style.webp",
+   "seed": 123456789,
+   "width": 3072,
+   "height": 5472
+  },
+  "portrait/children-s-book-drawing": {
+   "base_prompt_id": "portrait",
+   "style_id": "children-s-book-drawing",
+   "kind": "style",
+   "status": "complete",
+   "path": "images/portrait/children-s-book-drawing.webp",
+   "seed": 123456789,
+   "width": 3072,
+   "height": 5472
+  },
+  "portrait/vintage-children-s-book-drawing": {
+   "base_prompt_id": "portrait",
+   "style_id": "vintage-children-s-book-drawing",
+   "kind": "style",
+   "status": "complete",
+   "path": "images/portrait/vintage-children-s-book-drawing.webp",
+   "seed": 123456789,
+   "width": 3072,
+   "height": 5472
+  },
+  "portrait/collector-storybook-illustration": {
+   "base_prompt_id": "portrait",
+   "style_id": "collector-storybook-illustration",
+   "kind": "style",
+   "status": "complete",
+   "path": "images/portrait/collector-storybook-illustration.webp",
+   "seed": 123456789,
+   "width": 3072,
+   "height": 5472
+  },
+  "portrait/bookplate-illustration": {
+   "base_prompt_id": "portrait",
+   "style_id": "bookplate-illustration",
+   "kind": "style",
+   "status": "complete",
+   "path": "images/portrait/bookplate-illustration.webp",
+   "seed": 123456789,
+   "width": 3072,
+   "height": 5472
+  },
+  "portrait/whimsical-illustration": {
+   "base_prompt_id": "portrait",
+   "style_id": "whimsical-illustration",
+   "kind": "style",
+   "status": "complete",
+   "path": "images/portrait/whimsical-illustration.webp",
+   "seed": 123456789,
+   "width": 3072,
+   "height": 5472
+  },
+  "portrait/beatrix-potter-style": {
+   "base_prompt_id": "portrait",
+   "style_id": "beatrix-potter-style",
+   "kind": "style",
+   "status": "complete",
+   "path": "images/portrait/beatrix-potter-style.webp",
+   "seed": 123456789,
+   "width": 3072,
+   "height": 5472
+  },
+  "portrait/character-design-illustration": {
+   "base_prompt_id": "portrait",
+   "style_id": "character-design-illustration",
+   "kind": "style",
+   "status": "complete",
+   "path": "images/portrait/character-design-illustration.webp",
+   "seed": 123456789,
+   "width": 3072,
+   "height": 5472
+  },
+  "portrait/arcane-animation-still": {
+   "base_prompt_id": "portrait",
+   "style_id": "arcane-animation-still",
+   "kind": "style",
+   "status": "complete",
+   "path": "images/portrait/arcane-animation-still.webp",
+   "seed": 123456789,
+   "width": 3072,
+   "height": 5472
+  },
+  "portrait/caricature": {
+   "base_prompt_id": "portrait",
+   "style_id": "caricature",
+   "kind": "style",
+   "status": "complete",
+   "path": "images/portrait/caricature.webp",
+   "seed": 123456789,
+   "width": 3072,
+   "height": 5472
+  },
+  "portrait/gris-grimly-style": {
+   "base_prompt_id": "portrait",
+   "style_id": "gris-grimly-style",
+   "kind": "style",
+   "status": "complete",
+   "path": "images/portrait/gris-grimly-style.webp",
+   "seed": 123456789,
+   "width": 3072,
+   "height": 5472
+  },
+  "portrait/tim-burton-style": {
+   "base_prompt_id": "portrait",
+   "style_id": "tim-burton-style",
+   "kind": "style",
+   "status": "complete",
+   "path": "images/portrait/tim-burton-style.webp",
+   "seed": 123456789,
+   "width": 3072,
+   "height": 5472
+  },
+  "portrait/loose-crosshatched-character-sketch": {
+   "base_prompt_id": "portrait",
+   "style_id": "loose-crosshatched-character-sketch",
+   "kind": "style",
+   "status": "complete",
+   "path": "images/portrait/loose-crosshatched-character-sketch.webp",
+   "seed": 123456789,
+   "width": 3072,
+   "height": 5472
+  },
+  "portrait/brushwork-emphasis": {
+   "base_prompt_id": "portrait",
+   "style_id": "brushwork-emphasis",
+   "kind": "style",
+   "status": "complete",
+   "path": "images/portrait/brushwork-emphasis.webp",
+   "seed": 123456789,
+   "width": 3072,
+   "height": 5472
+  },
+  "portrait/ink-pen-drawing": {
+   "base_prompt_id": "portrait",
+   "style_id": "ink-pen-drawing",
+   "kind": "style",
+   "status": "complete",
+   "path": "images/portrait/ink-pen-drawing.webp",
+   "seed": 123456789,
+   "width": 3072,
+   "height": 5472
+  },
+  "portrait/carne-griffiths-style": {
+   "base_prompt_id": "portrait",
+   "style_id": "carne-griffiths-style",
+   "kind": "style",
+   "status": "complete",
+   "path": "images/portrait/carne-griffiths-style.webp",
+   "seed": 123456789,
+   "width": 3072,
+   "height": 5472
+  },
+  "portrait/impasto": {
+   "base_prompt_id": "portrait",
+   "style_id": "impasto",
+   "kind": "style",
+   "status": "complete",
+   "path": "images/portrait/impasto.webp",
+   "seed": 123456789,
+   "width": 3072,
+   "height": 5472
+  },
+  "portrait/crayola-colored-book-style": {
+   "base_prompt_id": "portrait",
+   "style_id": "crayola-colored-book-style",
+   "kind": "style",
+   "status": "complete",
+   "path": "images/portrait/crayola-colored-book-style.webp",
+   "seed": 123456789,
+   "width": 3072,
+   "height": 5472
+  },
+  "portrait/airbrush-fantasy": {
+   "base_prompt_id": "portrait",
+   "style_id": "airbrush-fantasy",
+   "kind": "style",
+   "status": "complete",
+   "path": "images/portrait/airbrush-fantasy.webp",
+   "seed": 123456789,
+   "width": 3072,
+   "height": 5472
+  },
+  "portrait/natural-lighting-photography": {
+   "base_prompt_id": "portrait",
+   "style_id": "natural-lighting-photography",
+   "kind": "style",
+   "status": "complete",
+   "path": "images/portrait/natural-lighting-photography.webp",
+   "seed": 123456789,
+   "width": 3072,
+   "height": 5472
+  },
+  "portrait/blue-hour-cinema": {
+   "base_prompt_id": "portrait",
+   "style_id": "blue-hour-cinema",
+   "kind": "style",
+   "status": "complete",
+   "path": "images/portrait/blue-hour-cinema.webp",
+   "seed": 123456789,
+   "width": 3072,
+   "height": 5472
+  },
+  "portrait/golden-hour-photography": {
+   "base_prompt_id": "portrait",
+   "style_id": "golden-hour-photography",
+   "kind": "style",
+   "status": "complete",
+   "path": "images/portrait/golden-hour-photography.webp",
+   "seed": 123456789,
+   "width": 3072,
+   "height": 5472
+  },
+  "portrait/high-key-lighting-photography": {
+   "base_prompt_id": "portrait",
+   "style_id": "high-key-lighting-photography",
+   "kind": "style",
+   "status": "complete",
+   "path": "images/portrait/high-key-lighting-photography.webp",
+   "seed": 123456789,
+   "width": 3072,
+   "height": 5472
+  },
+  "portrait/direct-flash-photography": {
+   "base_prompt_id": "portrait",
+   "style_id": "direct-flash-photography",
+   "kind": "style",
+   "status": "complete",
+   "path": "images/portrait/direct-flash-photography.webp",
+   "seed": 123456789,
+   "width": 3072,
+   "height": 5472
+  },
+  "portrait/neon-photography": {
+   "base_prompt_id": "portrait",
+   "style_id": "neon-photography",
+   "kind": "style",
+   "status": "complete",
+   "path": "images/portrait/neon-photography.webp",
+   "seed": 123456789,
+   "width": 3072,
+   "height": 5472
+  },
+  "portrait/3d-render": {
+   "base_prompt_id": "portrait",
+   "style_id": "3d-render",
+   "kind": "style",
+   "status": "complete",
+   "path": "images/portrait/3d-render.webp",
+   "seed": 123456789,
+   "width": 3072,
+   "height": 5472
+  },
+  "portrait/pixar-animation": {
+   "base_prompt_id": "portrait",
+   "style_id": "pixar-animation",
+   "kind": "style",
+   "status": "complete",
+   "path": "images/portrait/pixar-animation.webp",
+   "seed": 123456789,
+   "width": 3072,
+   "height": 5472
+  },
+  "portrait/cinematic-final-fantasy-3d-render": {
+   "base_prompt_id": "portrait",
+   "style_id": "cinematic-final-fantasy-3d-render",
+   "kind": "style",
+   "status": "complete",
+   "path": "images/portrait/cinematic-final-fantasy-3d-render.webp",
+   "seed": 123456789,
+   "width": 3072,
+   "height": 5472
+  },
+  "portrait/isometric-3d-graphic": {
+   "base_prompt_id": "portrait",
+   "style_id": "isometric-3d-graphic",
+   "kind": "style",
+   "status": "complete",
+   "path": "images/portrait/isometric-3d-graphic.webp",
+   "seed": 123456789,
+   "width": 3072,
+   "height": 5472
+  },
+  "portrait/low-poly": {
+   "base_prompt_id": "portrait",
+   "style_id": "low-poly",
+   "kind": "style",
+   "status": "complete",
+   "path": "images/portrait/low-poly.webp",
+   "seed": 123456789,
+   "width": 3072,
+   "height": 5472
+  },
+  "portrait/ps1-graphics": {
+   "base_prompt_id": "portrait",
+   "style_id": "ps1-graphics",
+   "kind": "style",
+   "status": "complete",
+   "path": "images/portrait/ps1-graphics.webp",
+   "seed": 123456789,
+   "width": 3072,
+   "height": 5472
+  },
+  "portrait/claymation": {
+   "base_prompt_id": "portrait",
+   "style_id": "claymation",
+   "kind": "style",
+   "status": "complete",
+   "path": "images/portrait/claymation.webp",
+   "seed": 123456789,
+   "width": 3072,
+   "height": 5472
+  },
+  "portrait/wallace-and-gromit-style": {
+   "base_prompt_id": "portrait",
+   "style_id": "wallace-and-gromit-style",
+   "kind": "style",
+   "status": "complete",
+   "path": "images/portrait/wallace-and-gromit-style.webp",
+   "seed": 123456789,
+   "width": 3072,
+   "height": 5472
+  },
+  "portrait/muppets-style": {
+   "base_prompt_id": "portrait",
+   "style_id": "muppets-style",
+   "kind": "style",
+   "status": "complete",
+   "path": "images/portrait/muppets-style.webp",
+   "seed": 123456789,
+   "width": 3072,
+   "height": 5472
+  },
+  "portrait/lego-minifigure": {
+   "base_prompt_id": "portrait",
+   "style_id": "lego-minifigure",
+   "kind": "style",
+   "status": "complete",
+   "path": "images/portrait/lego-minifigure.webp",
+   "seed": 123456789,
+   "width": 3072,
+   "height": 5472
+  },
+  "portrait/funko-pop-style": {
+   "base_prompt_id": "portrait",
+   "style_id": "funko-pop-style",
+   "kind": "style",
+   "status": "complete",
+   "path": "images/portrait/funko-pop-style.webp",
+   "seed": 123456789,
+   "width": 3072,
+   "height": 5472
+  },
+  "portrait/pop-art": {
+   "base_prompt_id": "portrait",
+   "style_id": "pop-art",
+   "kind": "style",
+   "status": "complete",
+   "path": "images/portrait/pop-art.webp",
+   "seed": 123456789,
+   "width": 3072,
+   "height": 5472
+  },
+  "portrait/variable-size-ben-day-dots-illustration": {
+   "base_prompt_id": "portrait",
+   "style_id": "variable-size-ben-day-dots-illustration",
+   "kind": "style",
+   "status": "complete",
+   "path": "images/portrait/variable-size-ben-day-dots-illustration.webp",
+   "seed": 123456789,
+   "width": 3072,
+   "height": 5472
+  },
+  "portrait/contemporary-lithography": {
+   "base_prompt_id": "portrait",
+   "style_id": "contemporary-lithography",
+   "kind": "style",
+   "status": "complete",
+   "path": "images/portrait/contemporary-lithography.webp",
+   "seed": 123456789,
+   "width": 3072,
+   "height": 5472
+  },
+  "portrait/contemporary-ukiyo-e": {
+   "base_prompt_id": "portrait",
+   "style_id": "contemporary-ukiyo-e",
+   "kind": "style",
+   "status": "complete",
+   "path": "images/portrait/contemporary-ukiyo-e.webp",
+   "seed": 123456789,
+   "width": 3072,
+   "height": 5472
+  },
+  "portrait/woodcut": {
+   "base_prompt_id": "portrait",
+   "style_id": "woodcut",
+   "kind": "style",
+   "status": "complete",
+   "path": "images/portrait/woodcut.webp",
+   "seed": 123456789,
+   "width": 3072,
+   "height": 5472
+  },
+  "portrait/etching": {
+   "base_prompt_id": "portrait",
+   "style_id": "etching",
+   "kind": "style",
+   "status": "complete",
+   "path": "images/portrait/etching.webp",
+   "seed": 123456789,
+   "width": 3072,
+   "height": 5472
+  },
+  "portrait/photoshoot": {
+   "base_prompt_id": "portrait",
+   "style_id": "photoshoot",
+   "kind": "style",
+   "status": "complete",
+   "path": "images/portrait/photoshoot.webp",
+   "seed": 123456789,
+   "width": 3072,
+   "height": 5472
+  },
+  "portrait/instagram-model-glamour-photography": {
+   "base_prompt_id": "portrait",
+   "style_id": "instagram-model-glamour-photography",
+   "kind": "style",
+   "status": "complete",
+   "path": "images/portrait/instagram-model-glamour-photography.webp",
+   "seed": 123456789,
+   "width": 3072,
+   "height": 5472
+  },
+  "portrait/gq-photoshoot": {
+   "base_prompt_id": "portrait",
+   "style_id": "gq-photoshoot",
+   "kind": "style",
+   "status": "complete",
+   "path": "images/portrait/gq-photoshoot.webp",
+   "seed": 123456789,
+   "width": 3072,
+   "height": 5472
+  },
+  "portrait/supermodel-photoshoot": {
+   "base_prompt_id": "portrait",
+   "style_id": "supermodel-photoshoot",
+   "kind": "style",
+   "status": "complete",
+   "path": "images/portrait/supermodel-photoshoot.webp",
+   "seed": 123456789,
+   "width": 3072,
+   "height": 5472
+  },
+  "portrait/playboy-maxim-style-photoshoot": {
+   "base_prompt_id": "portrait",
+   "style_id": "playboy-maxim-style-photoshoot",
+   "kind": "style",
+   "status": "complete",
+   "path": "images/portrait/playboy-maxim-style-photoshoot.webp",
+   "seed": 123456789,
+   "width": 3072,
+   "height": 5472
+  },
+  "portrait/linkedin-pro-portrait": {
+   "base_prompt_id": "portrait",
+   "style_id": "linkedin-pro-portrait",
+   "kind": "style",
+   "status": "complete",
+   "path": "images/portrait/linkedin-pro-portrait.webp",
+   "seed": 123456789,
+   "width": 3072,
+   "height": 5472
+  },
+  "portrait/paper-cutout": {
+   "base_prompt_id": "portrait",
+   "style_id": "paper-cutout",
+   "kind": "style",
+   "status": "complete",
+   "path": "images/portrait/paper-cutout.webp",
+   "seed": 123456789,
+   "width": 3072,
+   "height": 5472
+  },
+  "portrait/quilling": {
+   "base_prompt_id": "portrait",
+   "style_id": "quilling",
+   "kind": "style",
+   "status": "complete",
+   "path": "images/portrait/quilling.webp",
+   "seed": 123456789,
+   "width": 3072,
+   "height": 5472
+  },
+  "portrait/mosaic-art": {
+   "base_prompt_id": "portrait",
+   "style_id": "mosaic-art",
+   "kind": "style",
+   "status": "complete",
+   "path": "images/portrait/mosaic-art.webp",
+   "seed": 123456789,
+   "width": 3072,
+   "height": 5472
+  },
+  "portrait/stained-glass-flat-art": {
+   "base_prompt_id": "portrait",
+   "style_id": "stained-glass-flat-art",
+   "kind": "style",
+   "status": "complete",
+   "path": "images/portrait/stained-glass-flat-art.webp",
+   "seed": 123456789,
+   "width": 3072,
+   "height": 5472
+  },
+  "portrait/marble-sculpture": {
+   "base_prompt_id": "portrait",
+   "style_id": "marble-sculpture",
+   "kind": "style",
+   "status": "complete",
+   "path": "images/portrait/marble-sculpture.webp",
+   "seed": 123456789,
+   "width": 3072,
+   "height": 5472
+  },
+  "portrait/mixed-media": {
+   "base_prompt_id": "portrait",
+   "style_id": "mixed-media",
+   "kind": "style",
+   "status": "complete",
+   "path": "images/portrait/mixed-media.webp",
+   "seed": 123456789,
+   "width": 3072,
+   "height": 5472
+  },
+  "portrait/8-bit-style": {
+   "base_prompt_id": "portrait",
+   "style_id": "8-bit-style",
+   "kind": "style",
+   "status": "complete",
+   "path": "images/portrait/8-bit-style.webp",
+   "seed": 123456789,
+   "width": 3072,
+   "height": 5472
+  },
+  "portrait/minecraft-style": {
+   "base_prompt_id": "portrait",
+   "style_id": "minecraft-style",
+   "kind": "style",
+   "status": "complete",
+   "path": "images/portrait/minecraft-style.webp",
+   "seed": 123456789,
+   "width": 3072,
+   "height": 5472
+  },
+  "portrait/zelda-wind-waker-style": {
+   "base_prompt_id": "portrait",
+   "style_id": "zelda-wind-waker-style",
+   "kind": "style",
+   "status": "complete",
+   "path": "images/portrait/zelda-wind-waker-style.webp",
+   "seed": 123456789,
+   "width": 3072,
+   "height": 5472
+  },
+  "portrait/gta-v-polished-cover-art": {
+   "base_prompt_id": "portrait",
+   "style_id": "gta-v-polished-cover-art",
+   "kind": "style",
+   "status": "complete",
+   "path": "images/portrait/gta-v-polished-cover-art.webp",
+   "seed": 123456789,
+   "width": 3072,
+   "height": 5472
+  },
+  "portrait/cel-shading": {
+   "base_prompt_id": "portrait",
+   "style_id": "cel-shading",
+   "kind": "style",
+   "status": "complete",
+   "path": "images/portrait/cel-shading.webp",
+   "seed": 123456789,
+   "width": 3072,
+   "height": 5472
+  },
+  "portrait/film-noir-1": {
+   "base_prompt_id": "portrait",
+   "style_id": "film-noir-1",
+   "kind": "style",
+   "status": "complete",
+   "path": "images/portrait/film-noir-1.webp",
+   "seed": 123456789,
+   "width": 3072,
+   "height": 5472
+  },
+  "portrait/hitchcockian-photo": {
+   "base_prompt_id": "portrait",
+   "style_id": "hitchcockian-photo",
+   "kind": "style",
+   "status": "complete",
+   "path": "images/portrait/hitchcockian-photo.webp",
+   "seed": 123456789,
+   "width": 3072,
+   "height": 5472
+  },
+  "portrait/sin-city-photography": {
+   "base_prompt_id": "portrait",
+   "style_id": "sin-city-photography",
+   "kind": "style",
+   "status": "complete",
+   "path": "images/portrait/sin-city-photography.webp",
+   "seed": 123456789,
+   "width": 3072,
+   "height": 5472
+  },
+  "portrait/stranger-things-inspired-art": {
+   "base_prompt_id": "portrait",
+   "style_id": "stranger-things-inspired-art",
+   "kind": "style",
+   "status": "complete",
+   "path": "images/portrait/stranger-things-inspired-art.webp",
+   "seed": 123456789,
+   "width": 3072,
+   "height": 5472
+  },
+  "portrait/cyberpunk-photography": {
+   "base_prompt_id": "portrait",
+   "style_id": "cyberpunk-photography",
+   "kind": "style",
+   "status": "complete",
+   "path": "images/portrait/cyberpunk-photography.webp",
+   "seed": 123456789,
+   "width": 3072,
+   "height": 5472
+  },
+  "portrait/cinematic-tron": {
+   "base_prompt_id": "portrait",
+   "style_id": "cinematic-tron",
+   "kind": "style",
+   "status": "complete",
+   "path": "images/portrait/cinematic-tron.webp",
+   "seed": 123456789,
+   "width": 3072,
+   "height": 5472
+  },
+  "portrait/akira-style": {
+   "base_prompt_id": "portrait",
+   "style_id": "akira-style",
+   "kind": "style",
+   "status": "complete",
+   "path": "images/portrait/akira-style.webp",
+   "seed": 123456789,
+   "width": 3072,
+   "height": 5472
+  },
+  "portrait/atsushi-ohkubo-style": {
+   "base_prompt_id": "portrait",
+   "style_id": "atsushi-ohkubo-style",
+   "kind": "style",
+   "status": "complete",
+   "path": "images/portrait/atsushi-ohkubo-style.webp",
+   "seed": 123456789,
+   "width": 3072,
+   "height": 5472
+  },
+  "portrait/attack-on-titan-style": {
+   "base_prompt_id": "portrait",
+   "style_id": "attack-on-titan-style",
+   "kind": "style",
+   "status": "complete",
+   "path": "images/portrait/attack-on-titan-style.webp",
+   "seed": 123456789,
+   "width": 3072,
+   "height": 5472
+  },
+  "portrait/jujutsu-kaisen-style": {
+   "base_prompt_id": "portrait",
+   "style_id": "jujutsu-kaisen-style",
+   "kind": "style",
+   "status": "complete",
+   "path": "images/portrait/jujutsu-kaisen-style.webp",
+   "seed": 123456789,
+   "width": 3072,
+   "height": 5472
+  },
+  "portrait/berserk-manga-style": {
+   "base_prompt_id": "portrait",
+   "style_id": "berserk-manga-style",
+   "kind": "style",
+   "status": "complete",
+   "path": "images/portrait/berserk-manga-style.webp",
+   "seed": 123456789,
+   "width": 3072,
+   "height": 5472
+  },
+  "portrait/bleach-style": {
+   "base_prompt_id": "portrait",
+   "style_id": "bleach-style",
+   "kind": "style",
+   "status": "complete",
+   "path": "images/portrait/bleach-style.webp",
+   "seed": 123456789,
+   "width": 3072,
+   "height": 5472
+  },
+  "portrait/frieren-style": {
+   "base_prompt_id": "portrait",
+   "style_id": "frieren-style",
+   "kind": "style",
+   "status": "complete",
+   "path": "images/portrait/frieren-style.webp",
+   "seed": 123456789,
+   "width": 3072,
+   "height": 5472
+  },
+  "portrait/boichi-style": {
+   "base_prompt_id": "portrait",
+   "style_id": "boichi-style",
+   "kind": "style",
+   "status": "complete",
+   "path": "images/portrait/boichi-style.webp",
+   "seed": 123456789,
+   "width": 3072,
+   "height": 5472
+  },
+  "portrait/cinematic-anime": {
+   "base_prompt_id": "portrait",
+   "style_id": "cinematic-anime",
+   "kind": "style",
+   "status": "complete",
+   "path": "images/portrait/cinematic-anime.webp",
+   "seed": 123456789,
+   "width": 3072,
+   "height": 5472
+  },
+  "portrait/classic-shojo-illustration": {
+   "base_prompt_id": "portrait",
+   "style_id": "classic-shojo-illustration",
+   "kind": "style",
+   "status": "complete",
+   "path": "images/portrait/classic-shojo-illustration.webp",
+   "seed": 123456789,
+   "width": 3072,
+   "height": 5472
+  },
+  "portrait/euromanga-style": {
+   "base_prompt_id": "portrait",
+   "style_id": "euromanga-style",
+   "kind": "style",
+   "status": "complete",
+   "path": "images/portrait/euromanga-style.webp",
+   "seed": 123456789,
+   "width": 3072,
+   "height": 5472
+  },
+  "portrait/watercolor-anime-illustration": {
+   "base_prompt_id": "portrait",
+   "style_id": "watercolor-anime-illustration",
+   "kind": "style",
+   "status": "complete",
+   "path": "images/portrait/watercolor-anime-illustration.webp",
+   "seed": 123456789,
+   "width": 3072,
+   "height": 5472
+  },
+  "portrait/katsuya-terada-style": {
+   "base_prompt_id": "portrait",
+   "style_id": "katsuya-terada-style",
+   "kind": "style",
+   "status": "complete",
+   "path": "images/portrait/katsuya-terada-style.webp",
+   "seed": 123456789,
+   "width": 3072,
+   "height": 5472
+  },
+  "portrait/manhwa-ultradetailed-art": {
+   "base_prompt_id": "portrait",
+   "style_id": "manhwa-ultradetailed-art",
+   "kind": "style",
+   "status": "complete",
+   "path": "images/portrait/manhwa-ultradetailed-art.webp",
+   "seed": 123456789,
+   "width": 3072,
+   "height": 5472
+  },
+  "portrait/murata-hyperrealism": {
+   "base_prompt_id": "portrait",
+   "style_id": "murata-hyperrealism",
+   "kind": "style",
+   "status": "complete",
+   "path": "images/portrait/murata-hyperrealism.webp",
+   "seed": 123456789,
+   "width": 3072,
+   "height": 5472
+  },
+  "portrait/midjourney-niji-inspired-digital-illustration": {
+   "base_prompt_id": "portrait",
+   "style_id": "midjourney-niji-inspired-digital-illustration",
+   "kind": "style",
+   "status": "complete",
+   "path": "images/portrait/midjourney-niji-inspired-digital-illustration.webp",
+   "seed": 123456789,
+   "width": 3072,
+   "height": 5472
+  },
+  "portrait/solo-leveling-art": {
+   "base_prompt_id": "portrait",
+   "style_id": "solo-leveling-art",
+   "kind": "style",
+   "status": "complete",
+   "path": "images/portrait/solo-leveling-art.webp",
+   "seed": 123456789,
+   "width": 3072,
+   "height": 5472
+  },
+  "portrait/pony-2-5d-realism": {
+   "base_prompt_id": "portrait",
+   "style_id": "pony-2-5d-realism",
+   "kind": "style",
+   "status": "complete",
+   "path": "images/portrait/pony-2-5d-realism.webp",
+   "seed": 123456789,
+   "width": 3072,
+   "height": 5472
+  },
+  "portrait/pony-illustrious-checkpoint-style": {
+   "base_prompt_id": "portrait",
+   "style_id": "pony-illustrious-checkpoint-style",
+   "kind": "style",
+   "status": "complete",
+   "path": "images/portrait/pony-illustrious-checkpoint-style.webp",
+   "seed": 123456789,
+   "width": 3072,
+   "height": 5472
+  },
+  "portrait/yoshitaka-amano-style": {
+   "base_prompt_id": "portrait",
+   "style_id": "yoshitaka-amano-style",
+   "kind": "style",
+   "status": "complete",
+   "path": "images/portrait/yoshitaka-amano-style.webp",
+   "seed": 123456789,
+   "width": 3072,
+   "height": 5472
+  },
+  "portrait/yoshitaka-amano-fine-art": {
+   "base_prompt_id": "portrait",
+   "style_id": "yoshitaka-amano-fine-art",
+   "kind": "style",
+   "status": "complete",
+   "path": "images/portrait/yoshitaka-amano-fine-art.webp",
+   "seed": 123456789,
+   "width": 3072,
+   "height": 5472
+  },
+  "portrait/death-note-style": {
+   "base_prompt_id": "portrait",
+   "style_id": "death-note-style",
+   "kind": "style",
+   "status": "complete",
+   "path": "images/portrait/death-note-style.webp",
+   "seed": 123456789,
+   "width": 3072,
+   "height": 5472
+  },
+  "portrait/jojo-s-bizarre-adventure-style": {
+   "base_prompt_id": "portrait",
+   "style_id": "jojo-s-bizarre-adventure-style",
+   "kind": "style",
+   "status": "complete",
+   "path": "images/portrait/jojo-s-bizarre-adventure-style.webp",
+   "seed": 123456789,
+   "width": 3072,
+   "height": 5472
+  },
+  "portrait/sailor-moon-style": {
+   "base_prompt_id": "portrait",
+   "style_id": "sailor-moon-style",
+   "kind": "style",
+   "status": "complete",
+   "path": "images/portrait/sailor-moon-style.webp",
+   "seed": 123456789,
+   "width": 3072,
+   "height": 5472
+  },
+  "portrait/anime-key-visual": {
+   "base_prompt_id": "portrait",
+   "style_id": "anime-key-visual",
+   "kind": "style",
+   "status": "complete",
+   "path": "images/portrait/anime-key-visual.webp",
+   "seed": 123456789,
+   "width": 3072,
+   "height": 5472
+  },
+  "portrait/junji-ito-style": {
+   "base_prompt_id": "portrait",
+   "style_id": "junji-ito-style",
+   "kind": "style",
+   "status": "complete",
+   "path": "images/portrait/junji-ito-style.webp",
+   "seed": 123456789,
+   "width": 3072,
+   "height": 5472
+  },
+  "portrait/anime-illustration": {
+   "base_prompt_id": "portrait",
+   "style_id": "anime-illustration",
+   "kind": "style",
+   "status": "complete",
+   "path": "images/portrait/anime-illustration.webp",
+   "seed": 123456789,
+   "width": 3072,
+   "height": 5472
+  },
+  "portrait/ultradetailed-manga-illustration": {
+   "base_prompt_id": "portrait",
+   "style_id": "ultradetailed-manga-illustration",
+   "kind": "style",
+   "status": "complete",
+   "path": "images/portrait/ultradetailed-manga-illustration.webp",
+   "seed": 123456789,
+   "width": 3072,
+   "height": 5472
+  },
+  "portrait/polished-ultrarealistic-anime-pin-up": {
+   "base_prompt_id": "portrait",
+   "style_id": "polished-ultrarealistic-anime-pin-up",
+   "kind": "style",
+   "status": "complete",
+   "path": "images/portrait/polished-ultrarealistic-anime-pin-up.webp",
+   "seed": 123456789,
+   "width": 3072,
+   "height": 5472
+  },
+  "portrait/thin-delicate-outline-romantic-anime-photographic-hybrid": {
+   "base_prompt_id": "portrait",
+   "style_id": "thin-delicate-outline-romantic-anime-photographic-hybrid",
+   "kind": "style",
+   "status": "complete",
+   "path": "images/portrait/thin-delicate-outline-romantic-anime-photographic-hybrid.webp",
+   "seed": 123456789,
+   "width": 3072,
+   "height": 5472
+  },
+  "portrait/invader-zim-style": {
+   "base_prompt_id": "portrait",
+   "style_id": "invader-zim-style",
+   "kind": "style",
+   "status": "complete",
+   "path": "images/portrait/invader-zim-style.webp",
+   "seed": 123456789,
+   "width": 3072,
+   "height": 5472
+  },
+  "portrait/nickelodeon-animation-style": {
+   "base_prompt_id": "portrait",
+   "style_id": "nickelodeon-animation-style",
+   "kind": "style",
+   "status": "complete",
+   "path": "images/portrait/nickelodeon-animation-style.webp",
+   "seed": 123456789,
+   "width": 3072,
+   "height": 5472
+  },
+  "portrait/rick-and-morty-style": {
+   "base_prompt_id": "portrait",
+   "style_id": "rick-and-morty-style",
+   "kind": "style",
+   "status": "complete",
+   "path": "images/portrait/rick-and-morty-style.webp",
+   "seed": 123456789,
+   "width": 3072,
+   "height": 5472
+  },
+  "portrait/simpsons-style": {
+   "base_prompt_id": "portrait",
+   "style_id": "simpsons-style",
+   "kind": "style",
+   "status": "complete",
+   "path": "images/portrait/simpsons-style.webp",
+   "seed": 123456789,
+   "width": 3072,
+   "height": 5472
+  },
+  "portrait/south-park-style": {
+   "base_prompt_id": "portrait",
+   "style_id": "south-park-style",
+   "kind": "style",
+   "status": "complete",
+   "path": "images/portrait/south-park-style.webp",
+   "seed": 123456789,
+   "width": 3072,
+   "height": 5472
+  },
+  "portrait/family-guy-style": {
+   "base_prompt_id": "portrait",
+   "style_id": "family-guy-style",
+   "kind": "style",
+   "status": "complete",
+   "path": "images/portrait/family-guy-style.webp",
+   "seed": 123456789,
+   "width": 3072,
+   "height": 5472
+  },
+  "portrait/modern-cartoon": {
+   "base_prompt_id": "portrait",
+   "style_id": "modern-cartoon",
+   "kind": "style",
+   "status": "complete",
+   "path": "images/portrait/modern-cartoon.webp",
+   "seed": 123456789,
+   "width": 3072,
+   "height": 5472
+  },
+  "portrait/classic-disney-feature-animation": {
+   "base_prompt_id": "portrait",
+   "style_id": "classic-disney-feature-animation",
+   "kind": "style",
+   "status": "complete",
+   "path": "images/portrait/classic-disney-feature-animation.webp",
+   "seed": 123456789,
+   "width": 3072,
+   "height": 5472
+  },
+  "portrait/cyberpunk": {
+   "base_prompt_id": "portrait",
+   "style_id": "cyberpunk",
+   "kind": "style",
+   "status": "complete",
+   "path": "images/portrait/cyberpunk.webp",
+   "seed": 123456789,
+   "width": 3072,
+   "height": 5472
+  },
+  "portrait/toon-shader": {
+   "base_prompt_id": "portrait",
+   "style_id": "toon-shader",
+   "kind": "style",
+   "status": "complete",
+   "path": "images/portrait/toon-shader.webp",
+   "seed": 123456789,
+   "width": 3072,
+   "height": 5472
+  },
+  "portrait/comic-europeen-prestige": {
+   "base_prompt_id": "portrait",
+   "style_id": "comic-europeen-prestige",
+   "kind": "style",
+   "status": "complete",
+   "path": "images/portrait/comic-europeen-prestige.webp",
+   "seed": 123456789,
+   "width": 3072,
+   "height": 5472
+  },
+  "portrait/american-pulp-illustration": {
+   "base_prompt_id": "portrait",
+   "style_id": "american-pulp-illustration",
+   "kind": "style",
+   "status": "complete",
+   "path": "images/portrait/american-pulp-illustration.webp",
+   "seed": 123456789,
+   "width": 3072,
+   "height": 5472
+  },
+  "portrait/frank-miller-style": {
+   "base_prompt_id": "portrait",
+   "style_id": "frank-miller-style",
+   "kind": "style",
+   "status": "complete",
+   "path": "images/portrait/frank-miller-style.webp",
+   "seed": 123456789,
+   "width": 3072,
+   "height": 5472
+  },
+  "portrait/bengal-illustration": {
+   "base_prompt_id": "portrait",
+   "style_id": "bengal-illustration",
+   "kind": "style",
+   "status": "complete",
+   "path": "images/portrait/bengal-illustration.webp",
+   "seed": 123456789,
+   "width": 3072,
+   "height": 5472
+  },
+  "portrait/crosshatched-graphic-novel": {
+   "base_prompt_id": "portrait",
+   "style_id": "crosshatched-graphic-novel",
+   "kind": "style",
+   "status": "complete",
+   "path": "images/portrait/crosshatched-graphic-novel.webp",
+   "seed": 123456789,
+   "width": 3072,
+   "height": 5472
+  },
+  "portrait/franco-belgian-ultradetailed-comics": {
+   "base_prompt_id": "portrait",
+   "style_id": "franco-belgian-ultradetailed-comics",
+   "kind": "style",
+   "status": "complete",
+   "path": "images/portrait/franco-belgian-ultradetailed-comics.webp",
+   "seed": 123456789,
+   "width": 3072,
+   "height": 5472
+  },
+  "portrait/bande-dessinee-herge-goscinny-tradition": {
+   "base_prompt_id": "portrait",
+   "style_id": "bande-dessinee-herge-goscinny-tradition",
+   "kind": "style",
+   "status": "complete",
+   "path": "images/portrait/bande-dessinee-herge-goscinny-tradition.webp",
+   "seed": 123456789,
+   "width": 3072,
+   "height": 5472
+  },
+  "portrait/frank-cho-style": {
+   "base_prompt_id": "portrait",
+   "style_id": "frank-cho-style",
+   "kind": "style",
+   "status": "complete",
+   "path": "images/portrait/frank-cho-style.webp",
+   "seed": 123456789,
+   "width": 3072,
+   "height": 5472
+  },
+  "portrait/enki-bilal-inspired-comic-and-digital-painting": {
+   "base_prompt_id": "portrait",
+   "style_id": "enki-bilal-inspired-comic-and-digital-painting",
+   "kind": "style",
+   "status": "complete",
+   "path": "images/portrait/enki-bilal-inspired-comic-and-digital-painting.webp",
+   "seed": 123456789,
+   "width": 3072,
+   "height": 5472
+  },
+  "portrait/archie-comics-style": {
+   "base_prompt_id": "portrait",
+   "style_id": "archie-comics-style",
+   "kind": "style",
+   "status": "complete",
+   "path": "images/portrait/archie-comics-style.webp",
+   "seed": 123456789,
+   "width": 3072,
+   "height": 5472
+  },
+  "portrait/mark-brooks-manapul-style": {
+   "base_prompt_id": "portrait",
+   "style_id": "mark-brooks-manapul-style",
+   "kind": "style",
+   "status": "complete",
+   "path": "images/portrait/mark-brooks-manapul-style.webp",
+   "seed": 123456789,
+   "width": 3072,
+   "height": 5472
+  },
+  "portrait/marvel-comics-style": {
+   "base_prompt_id": "portrait",
+   "style_id": "marvel-comics-style",
+   "kind": "style",
+   "status": "complete",
+   "path": "images/portrait/marvel-comics-style.webp",
+   "seed": 123456789,
+   "width": 3072,
+   "height": 5472
+  },
+  "portrait/marvel-cover-art": {
+   "base_prompt_id": "portrait",
+   "style_id": "marvel-cover-art",
+   "kind": "style",
+   "status": "complete",
+   "path": "images/portrait/marvel-cover-art.webp",
+   "seed": 123456789,
+   "width": 3072,
+   "height": 5472
+  },
+  "portrait/milo-manara-style": {
+   "base_prompt_id": "portrait",
+   "style_id": "milo-manara-style",
+   "kind": "style",
+   "status": "complete",
+   "path": "images/portrait/milo-manara-style.webp",
+   "seed": 123456789,
+   "width": 3072,
+   "height": 5472
+  },
+  "portrait/psychological-thriller-pulp-digital-painting": {
+   "base_prompt_id": "portrait",
+   "style_id": "psychological-thriller-pulp-digital-painting",
+   "kind": "style",
+   "status": "complete",
+   "path": "images/portrait/psychological-thriller-pulp-digital-painting.webp",
+   "seed": 123456789,
+   "width": 3072,
+   "height": 5472
+  },
+  "portrait/dc-comics-style": {
+   "base_prompt_id": "portrait",
+   "style_id": "dc-comics-style",
+   "kind": "style",
+   "status": "complete",
+   "path": "images/portrait/dc-comics-style.webp",
+   "seed": 123456789,
+   "width": 3072,
+   "height": 5472
+  },
+  "portrait/zenescope-illustration": {
+   "base_prompt_id": "portrait",
+   "style_id": "zenescope-illustration",
+   "kind": "style",
+   "status": "complete",
+   "path": "images/portrait/zenescope-illustration.webp",
+   "seed": 123456789,
+   "width": 3072,
+   "height": 5472
+  },
+  "portrait/ryan-benjamin-style": {
+   "base_prompt_id": "portrait",
+   "style_id": "ryan-benjamin-style",
+   "kind": "style",
+   "status": "complete",
+   "path": "images/portrait/ryan-benjamin-style.webp",
+   "seed": 123456789,
+   "width": 3072,
+   "height": 5472
+  },
+  "portrait/travis-charest-style": {
+   "base_prompt_id": "portrait",
+   "style_id": "travis-charest-style",
+   "kind": "style",
+   "status": "complete",
+   "path": "images/portrait/travis-charest-style.webp",
+   "seed": 123456789,
+   "width": 3072,
+   "height": 5472
+  },
+  "portrait/adi-granov-style": {
+   "base_prompt_id": "portrait",
+   "style_id": "adi-granov-style",
+   "kind": "style",
+   "status": "complete",
+   "path": "images/portrait/adi-granov-style.webp",
+   "seed": 123456789,
+   "width": 3072,
+   "height": 5472
+  },
+  "portrait/bold-contour-style": {
+   "base_prompt_id": "portrait",
+   "style_id": "bold-contour-style",
+   "kind": "style",
+   "status": "complete",
+   "path": "images/portrait/bold-contour-style.webp",
+   "seed": 123456789,
+   "width": 3072,
+   "height": 5472
+  },
+  "portrait/clean-line-art": {
+   "base_prompt_id": "portrait",
+   "style_id": "clean-line-art",
+   "kind": "style",
+   "status": "complete",
+   "path": "images/portrait/clean-line-art.webp",
+   "seed": 123456789,
+   "width": 3072,
+   "height": 5472
+  },
+  "portrait/moebius-inspired-illustration": {
+   "base_prompt_id": "portrait",
+   "style_id": "moebius-inspired-illustration",
+   "kind": "style",
+   "status": "complete",
+   "path": "images/portrait/moebius-inspired-illustration.webp",
+   "seed": 123456789,
+   "width": 3072,
+   "height": 5472
+  },
+  "portrait/vintage-comics": {
+   "base_prompt_id": "portrait",
+   "style_id": "vintage-comics",
+   "kind": "style",
+   "status": "complete",
+   "path": "images/portrait/vintage-comics.webp",
+   "seed": 123456789,
+   "width": 3072,
+   "height": 5472
+  },
+  "portrait/charcoal-rendering": {
+   "base_prompt_id": "portrait",
+   "style_id": "charcoal-rendering",
+   "kind": "style",
+   "status": "complete",
+   "path": "images/portrait/charcoal-rendering.webp",
+   "seed": 123456789,
+   "width": 3072,
+   "height": 5472
+  },
+  "portrait/hyperrealistic-colored-pen-sketch": {
+   "base_prompt_id": "portrait",
+   "style_id": "hyperrealistic-colored-pen-sketch",
+   "kind": "style",
+   "status": "complete",
+   "path": "images/portrait/hyperrealistic-colored-pen-sketch.webp",
+   "seed": 123456789,
+   "width": 3072,
+   "height": 5472
+  },
+  "portrait/jarek-kubicki-style": {
+   "base_prompt_id": "portrait",
+   "style_id": "jarek-kubicki-style",
+   "kind": "style",
+   "status": "complete",
+   "path": "images/portrait/jarek-kubicki-style.webp",
+   "seed": 123456789,
+   "width": 3072,
+   "height": 5472
+  },
+  "portrait/sketch": {
+   "base_prompt_id": "portrait",
+   "style_id": "sketch",
+   "kind": "style",
+   "status": "complete",
+   "path": "images/portrait/sketch.webp",
+   "seed": 123456789,
+   "width": 3072,
+   "height": 5472
+  },
+  "portrait/wojak-meme-sketch-style": {
+   "base_prompt_id": "portrait",
+   "style_id": "wojak-meme-sketch-style",
+   "kind": "style",
+   "status": "complete",
+   "path": "images/portrait/wojak-meme-sketch-style.webp",
+   "seed": 123456789,
+   "width": 3072,
+   "height": 5472
+  },
+  "portrait/conte-pastel": {
+   "base_prompt_id": "portrait",
+   "style_id": "conte-pastel",
+   "kind": "style",
+   "status": "complete",
+   "path": "images/portrait/conte-pastel.webp",
+   "seed": 123456789,
+   "width": 3072,
+   "height": 5472
+  },
+  "portrait/boulet-graphic-illustration": {
+   "base_prompt_id": "portrait",
+   "style_id": "boulet-graphic-illustration",
+   "kind": "style",
+   "status": "complete",
+   "path": "images/portrait/boulet-graphic-illustration.webp",
+   "seed": 123456789,
+   "width": 3072,
+   "height": 5472
+  },
+  "portrait/saul-steinbeck-art": {
+   "base_prompt_id": "portrait",
+   "style_id": "saul-steinbeck-art",
+   "kind": "style",
+   "status": "complete",
+   "path": "images/portrait/saul-steinbeck-art.webp",
+   "seed": 123456789,
+   "width": 3072,
+   "height": 5472
+  },
+  "portrait/doodle": {
+   "base_prompt_id": "portrait",
+   "style_id": "doodle",
+   "kind": "style",
+   "status": "complete",
+   "path": "images/portrait/doodle.webp",
+   "seed": 123456789,
+   "width": 3072,
+   "height": 5472
+  },
+  "portrait/35mm-photography": {
+   "base_prompt_id": "portrait",
+   "style_id": "35mm-photography",
+   "kind": "style",
+   "status": "complete",
+   "path": "images/portrait/35mm-photography.webp",
+   "seed": 123456789,
+   "width": 3072,
+   "height": 5472
+  },
+  "portrait/adobe-lightroom-masterpiece": {
+   "base_prompt_id": "portrait",
+   "style_id": "adobe-lightroom-masterpiece",
+   "kind": "style",
+   "status": "complete",
+   "path": "images/portrait/adobe-lightroom-masterpiece.webp",
+   "seed": 123456789,
+   "width": 3072,
+   "height": 5472
+  },
+  "portrait/annie-leibovitz-portraiture": {
+   "base_prompt_id": "portrait",
+   "style_id": "annie-leibovitz-portraiture",
+   "kind": "style",
+   "status": "complete",
+   "path": "images/portrait/annie-leibovitz-portraiture.webp",
+   "seed": 123456789,
+   "width": 3072,
+   "height": 5472
+  },
+  "portrait/atmospheric-matte-painting": {
+   "base_prompt_id": "portrait",
+   "style_id": "atmospheric-matte-painting",
+   "kind": "style",
+   "status": "complete",
+   "path": "images/portrait/atmospheric-matte-painting.webp",
+   "seed": 123456789,
+   "width": 3072,
+   "height": 5472
+  },
+  "portrait/backlit-portraiture": {
+   "base_prompt_id": "portrait",
+   "style_id": "backlit-portraiture",
+   "kind": "style",
+   "status": "complete",
+   "path": "images/portrait/backlit-portraiture.webp",
+   "seed": 123456789,
+   "width": 3072,
+   "height": 5472
+  },
+  "portrait/bleach-bypass-photography": {
+   "base_prompt_id": "portrait",
+   "style_id": "bleach-bypass-photography",
+   "kind": "style",
+   "status": "complete",
+   "path": "images/portrait/bleach-bypass-photography.webp",
+   "seed": 123456789,
+   "width": 3072,
+   "height": 5472
+  },
+  "portrait/butterfly-lighting": {
+   "base_prompt_id": "portrait",
+   "style_id": "butterfly-lighting",
+   "kind": "style",
+   "status": "complete",
+   "path": "images/portrait/butterfly-lighting.webp",
+   "seed": 123456789,
+   "width": 3072,
+   "height": 5472
+  },
+  "portrait/candid-photography": {
+   "base_prompt_id": "portrait",
+   "style_id": "candid-photography",
+   "kind": "style",
+   "status": "complete",
+   "path": "images/portrait/candid-photography.webp",
+   "seed": 123456789,
+   "width": 3072,
+   "height": 5472
+  },
+  "portrait/commercial-beauty-photography": {
+   "base_prompt_id": "portrait",
+   "style_id": "commercial-beauty-photography",
+   "kind": "style",
+   "status": "complete",
+   "path": "images/portrait/commercial-beauty-photography.webp",
+   "seed": 123456789,
+   "width": 3072,
+   "height": 5472
+  },
+  "portrait/editorial-photography": {
+   "base_prompt_id": "portrait",
+   "style_id": "editorial-photography",
+   "kind": "style",
+   "status": "complete",
+   "path": "images/portrait/editorial-photography.webp",
+   "seed": 123456789,
+   "width": 3072,
+   "height": 5472
+  },
+  "portrait/cross-process-photography": {
+   "base_prompt_id": "portrait",
+   "style_id": "cross-process-photography",
+   "kind": "style",
+   "status": "complete",
+   "path": "images/portrait/cross-process-photography.webp",
+   "seed": 123456789,
+   "width": 3072,
+   "height": 5472
+  },
+  "portrait/cross-processed-film-photography": {
+   "base_prompt_id": "portrait",
+   "style_id": "cross-processed-film-photography",
+   "kind": "style",
+   "status": "complete",
+   "path": "images/portrait/cross-processed-film-photography.webp",
+   "seed": 123456789,
+   "width": 3072,
+   "height": 5472
+  },
+  "portrait/fish-eye-photography": {
+   "base_prompt_id": "portrait",
+   "style_id": "fish-eye-photography",
+   "kind": "style",
+   "status": "complete",
+   "path": "images/portrait/fish-eye-photography.webp",
+   "seed": 123456789,
+   "width": 3072,
+   "height": 5472
+  },
+  "portrait/surveillance-camera-photo": {
+   "base_prompt_id": "portrait",
+   "style_id": "surveillance-camera-photo",
+   "kind": "style",
+   "status": "complete",
+   "path": "images/portrait/surveillance-camera-photo.webp",
+   "seed": 123456789,
+   "width": 3072,
+   "height": 5472
+  },
+  "portrait/dutch-angle-photography": {
+   "base_prompt_id": "portrait",
+   "style_id": "dutch-angle-photography",
+   "kind": "style",
+   "status": "complete",
+   "path": "images/portrait/dutch-angle-photography.webp",
+   "seed": 123456789,
+   "width": 3072,
+   "height": 5472
+  },
+  "portrait/full-body-photo": {
+   "base_prompt_id": "portrait",
+   "style_id": "full-body-photo",
+   "kind": "style",
+   "status": "complete",
+   "path": "images/portrait/full-body-photo.webp",
+   "seed": 123456789,
+   "width": 3072,
+   "height": 5472
+  },
+  "portrait/hdr-photography": {
+   "base_prompt_id": "portrait",
+   "style_id": "hdr-photography",
+   "kind": "style",
+   "status": "complete",
+   "path": "images/portrait/hdr-photography.webp",
+   "seed": 123456789,
+   "width": 3072,
+   "height": 5472
+  },
+  "portrait/film-noir-2": {
+   "base_prompt_id": "portrait",
+   "style_id": "film-noir-2",
+   "kind": "style",
+   "status": "complete",
+   "path": "images/portrait/film-noir-2.webp",
+   "seed": 123456789,
+   "width": 3072,
+   "height": 5472
+  },
+  "portrait/art-photography": {
+   "base_prompt_id": "portrait",
+   "style_id": "art-photography",
+   "kind": "style",
+   "status": "complete",
+   "path": "images/portrait/art-photography.webp",
+   "seed": 123456789,
+   "width": 3072,
+   "height": 5472
+  },
+  "portrait/kodachrome": {
+   "base_prompt_id": "portrait",
+   "style_id": "kodachrome",
+   "kind": "style",
+   "status": "complete",
+   "path": "images/portrait/kodachrome.webp",
+   "seed": 123456789,
+   "width": 3072,
+   "height": 5472
+  },
+  "portrait/national-geographic-photography": {
+   "base_prompt_id": "portrait",
+   "style_id": "national-geographic-photography",
+   "kind": "style",
+   "status": "complete",
+   "path": "images/portrait/national-geographic-photography.webp",
+   "seed": 123456789,
+   "width": 3072,
+   "height": 5472
+  },
+  "portrait/motion-blur-photography": {
+   "base_prompt_id": "portrait",
+   "style_id": "motion-blur-photography",
+   "kind": "style",
+   "status": "complete",
+   "path": "images/portrait/motion-blur-photography.webp",
+   "seed": 123456789,
+   "width": 3072,
+   "height": 5472
+  },
+  "portrait/low-key-photography": {
+   "base_prompt_id": "portrait",
+   "style_id": "low-key-photography",
+   "kind": "style",
+   "status": "complete",
+   "path": "images/portrait/low-key-photography.webp",
+   "seed": 123456789,
+   "width": 3072,
+   "height": 5472
+  },
+  "portrait/night-photography": {
+   "base_prompt_id": "portrait",
+   "style_id": "night-photography",
+   "kind": "style",
+   "status": "complete",
+   "path": "images/portrait/night-photography.webp",
+   "seed": 123456789,
+   "width": 3072,
+   "height": 5472
+  },
+  "portrait/peter-lindberghinspired-photography-style": {
+   "base_prompt_id": "portrait",
+   "style_id": "peter-lindberghinspired-photography-style",
+   "kind": "style",
+   "status": "complete",
+   "path": "images/portrait/peter-lindberghinspired-photography-style.webp",
+   "seed": 123456789,
+   "width": 3072,
+   "height": 5472
+  },
+  "portrait/hyper-synthwave": {
+   "base_prompt_id": "portrait",
+   "style_id": "hyper-synthwave",
+   "kind": "style",
+   "status": "complete",
+   "path": "images/portrait/hyper-synthwave.webp",
+   "seed": 123456789,
+   "width": 3072,
+   "height": 5472
+  },
+  "portrait/soft-beauty-dish-portrait-rendering": {
+   "base_prompt_id": "portrait",
+   "style_id": "soft-beauty-dish-portrait-rendering",
+   "kind": "style",
+   "status": "complete",
+   "path": "images/portrait/soft-beauty-dish-portrait-rendering.webp",
+   "seed": 123456789,
+   "width": 3072,
+   "height": 5472
+  },
+  "portrait/streamer-glam-selfie-realism": {
+   "base_prompt_id": "portrait",
+   "style_id": "streamer-glam-selfie-realism",
+   "kind": "style",
+   "status": "complete",
+   "path": "images/portrait/streamer-glam-selfie-realism.webp",
+   "seed": 123456789,
+   "width": 3072,
+   "height": 5472
+  },
+  "portrait/sitcom-still": {
+   "base_prompt_id": "portrait",
+   "style_id": "sitcom-still",
+   "kind": "style",
+   "status": "complete",
+   "path": "images/portrait/sitcom-still.webp",
+   "seed": 123456789,
+   "width": 3072,
+   "height": 5472
+  },
+  "portrait/rembrandt-inspired-photography": {
+   "base_prompt_id": "portrait",
+   "style_id": "rembrandt-inspired-photography",
+   "kind": "style",
+   "status": "complete",
+   "path": "images/portrait/rembrandt-inspired-photography.webp",
+   "seed": 123456789,
+   "width": 3072,
+   "height": 5472
+  },
+  "portrait/vogue-magazine": {
+   "base_prompt_id": "portrait",
+   "style_id": "vogue-magazine",
+   "kind": "style",
+   "status": "complete",
+   "path": "images/portrait/vogue-magazine.webp",
+   "seed": 123456789,
+   "width": 3072,
+   "height": 5472
+  },
+  "portrait/butcher-billy-style": {
+   "base_prompt_id": "portrait",
+   "style_id": "butcher-billy-style",
+   "kind": "style",
+   "status": "complete",
+   "path": "images/portrait/butcher-billy-style.webp",
+   "seed": 123456789,
+   "width": 3072,
+   "height": 5472
+  },
+  "portrait/kintsugi-inspired-digital-art": {
+   "base_prompt_id": "portrait",
+   "style_id": "kintsugi-inspired-digital-art",
+   "kind": "style",
+   "status": "complete",
+   "path": "images/portrait/kintsugi-inspired-digital-art.webp",
+   "seed": 123456789,
+   "width": 3072,
+   "height": 5472
+  },
+  "portrait/hyper-stylized-illustration": {
+   "base_prompt_id": "portrait",
+   "style_id": "hyper-stylized-illustration",
+   "kind": "style",
+   "status": "complete",
+   "path": "images/portrait/hyper-stylized-illustration.webp",
+   "seed": 123456789,
+   "width": 3072,
+   "height": 5472
+  },
+  "portrait/ornamental-patterns-hyperrealism-portrait": {
+   "base_prompt_id": "portrait",
+   "style_id": "ornamental-patterns-hyperrealism-portrait",
+   "kind": "style",
+   "status": "complete",
+   "path": "images/portrait/ornamental-patterns-hyperrealism-portrait.webp",
+   "seed": 123456789,
+   "width": 3072,
+   "height": 5472
+  },
+  "portrait/flat-illustration": {
+   "base_prompt_id": "portrait",
+   "style_id": "flat-illustration",
+   "kind": "style",
+   "status": "complete",
+   "path": "images/portrait/flat-illustration.webp",
+   "seed": 123456789,
+   "width": 3072,
+   "height": 5472
+  },
+  "portrait/vector-art": {
+   "base_prompt_id": "portrait",
+   "style_id": "vector-art",
+   "kind": "style",
+   "status": "complete",
+   "path": "images/portrait/vector-art.webp",
+   "seed": 123456789,
+   "width": 3072,
+   "height": 5472
+  },
+  "portrait/bauhaus": {
+   "base_prompt_id": "portrait",
+   "style_id": "bauhaus",
+   "kind": "style",
+   "status": "complete",
+   "path": "images/portrait/bauhaus.webp",
+   "seed": 123456789,
+   "width": 3072,
+   "height": 5472
+  },
+  "portrait/minimalist-line-art": {
+   "base_prompt_id": "portrait",
+   "style_id": "minimalist-line-art",
+   "kind": "style",
+   "status": "complete",
+   "path": "images/portrait/minimalist-line-art.webp",
+   "seed": 123456789,
+   "width": 3072,
+   "height": 5472
+  },
+  "portrait/minimalism": {
+   "base_prompt_id": "portrait",
+   "style_id": "minimalism",
+   "kind": "style",
+   "status": "complete",
+   "path": "images/portrait/minimalism.webp",
+   "seed": 123456789,
+   "width": 3072,
+   "height": 5472
+  },
+  "portrait/gradients": {
+   "base_prompt_id": "portrait",
+   "style_id": "gradients",
+   "kind": "style",
+   "status": "complete",
+   "path": "images/portrait/gradients.webp",
+   "seed": 123456789,
+   "width": 3072,
+   "height": 5472
+  },
+  "portrait/origami": {
+   "base_prompt_id": "portrait",
+   "style_id": "origami",
+   "kind": "style",
+   "status": "complete",
+   "path": "images/portrait/origami.webp",
+   "seed": 123456789,
+   "width": 3072,
+   "height": 5472
+  },
+  "portrait/playful-retro-pop": {
+   "base_prompt_id": "portrait",
+   "style_id": "playful-retro-pop",
+   "kind": "style",
+   "status": "complete",
+   "path": "images/portrait/playful-retro-pop.webp",
+   "seed": 123456789,
+   "width": 3072,
+   "height": 5472
+  },
+  "portrait/collage": {
+   "base_prompt_id": "portrait",
+   "style_id": "collage",
+   "kind": "style",
+   "status": "complete",
+   "path": "images/portrait/collage.webp",
+   "seed": 123456789,
+   "width": 3072,
+   "height": 5472
+  },
+  "portrait/digital-painting": {
+   "base_prompt_id": "portrait",
+   "style_id": "digital-painting",
+   "kind": "style",
+   "status": "complete",
+   "path": "images/portrait/digital-painting.webp",
+   "seed": 123456789,
+   "width": 3072,
+   "height": 5472
+  },
+  "portrait/castlevania-concept-art": {
+   "base_prompt_id": "portrait",
+   "style_id": "castlevania-concept-art",
+   "kind": "style",
+   "status": "complete",
+   "path": "images/portrait/castlevania-concept-art.webp",
+   "seed": 123456789,
+   "width": 3072,
+   "height": 5472
+  },
+  "portrait/sakimichan-style": {
+   "base_prompt_id": "portrait",
+   "style_id": "sakimichan-style",
+   "kind": "style",
+   "status": "complete",
+   "path": "images/portrait/sakimichan-style.webp",
+   "seed": 123456789,
+   "width": 3072,
+   "height": 5472
+  },
+  "portrait/scribble-fine-art": {
+   "base_prompt_id": "portrait",
+   "style_id": "scribble-fine-art",
+   "kind": "style",
+   "status": "complete",
+   "path": "images/portrait/scribble-fine-art.webp",
+   "seed": 123456789,
+   "width": 3072,
+   "height": 5472
+  },
+  "portrait/gris-grimly-inspired-hyperrealism": {
+   "base_prompt_id": "portrait",
+   "style_id": "gris-grimly-inspired-hyperrealism",
+   "kind": "style",
+   "status": "complete",
+   "path": "images/portrait/gris-grimly-inspired-hyperrealism.webp",
+   "seed": 123456789,
+   "width": 3072,
+   "height": 5472
+  },
+  "portrait/absolute-painterly-style": {
+   "base_prompt_id": "portrait",
+   "style_id": "absolute-painterly-style",
+   "kind": "style",
+   "status": "complete",
+   "path": "images/portrait/absolute-painterly-style.webp",
+   "seed": 123456789,
+   "width": 3072,
+   "height": 5472
+  },
+  "portrait/artstation-masterpiece": {
+   "base_prompt_id": "portrait",
+   "style_id": "artstation-masterpiece",
+   "kind": "style",
+   "status": "complete",
+   "path": "images/portrait/artstation-masterpiece.webp",
+   "seed": 123456789,
+   "width": 3072,
+   "height": 5472
+  },
+  "portrait/bastien-lecouffe-deharme-fantasy": {
+   "base_prompt_id": "portrait",
+   "style_id": "bastien-lecouffe-deharme-fantasy",
+   "kind": "style",
+   "status": "complete",
+   "path": "images/portrait/bastien-lecouffe-deharme-fantasy.webp",
+   "seed": 123456789,
+   "width": 3072,
+   "height": 5472
+  },
+  "portrait/bernie-wrightson-gothic": {
+   "base_prompt_id": "portrait",
+   "style_id": "bernie-wrightson-gothic",
+   "kind": "style",
+   "status": "complete",
+   "path": "images/portrait/bernie-wrightson-gothic.webp",
+   "seed": 123456789,
+   "width": 3072,
+   "height": 5472
+  },
+  "portrait/blacklight-style": {
+   "base_prompt_id": "portrait",
+   "style_id": "blacklight-style",
+   "kind": "style",
+   "status": "complete",
+   "path": "images/portrait/blacklight-style.webp",
+   "seed": 123456789,
+   "width": 3072,
+   "height": 5472
+  },
+  "portrait/x-ray-style": {
+   "base_prompt_id": "portrait",
+   "style_id": "x-ray-style",
+   "kind": "style",
+   "status": "complete",
+   "path": "images/portrait/x-ray-style.webp",
+   "seed": 123456789,
+   "width": 3072,
+   "height": 5472
+  },
+  "portrait/charlie-bowater-style": {
+   "base_prompt_id": "portrait",
+   "style_id": "charlie-bowater-style",
+   "kind": "style",
+   "status": "complete",
+   "path": "images/portrait/charlie-bowater-style.webp",
+   "seed": 123456789,
+   "width": 3072,
+   "height": 5472
+  },
+  "portrait/contemporary-fantasy-art": {
+   "base_prompt_id": "portrait",
+   "style_id": "contemporary-fantasy-art",
+   "kind": "style",
+   "status": "complete",
+   "path": "images/portrait/contemporary-fantasy-art.webp",
+   "seed": 123456789,
+   "width": 3072,
+   "height": 5472
+  },
+  "portrait/cosmic-horror-illustration": {
+   "base_prompt_id": "portrait",
+   "style_id": "cosmic-horror-illustration",
+   "kind": "style",
+   "status": "complete",
+   "path": "images/portrait/cosmic-horror-illustration.webp",
+   "seed": 123456789,
+   "width": 3072,
+   "height": 5472
+  },
+  "portrait/editorial-illustration": {
+   "base_prompt_id": "portrait",
+   "style_id": "editorial-illustration",
+   "kind": "style",
+   "status": "complete",
+   "path": "images/portrait/editorial-illustration.webp",
+   "seed": 123456789,
+   "width": 3072,
+   "height": 5472
+  },
+  "portrait/cover-art": {
+   "base_prompt_id": "portrait",
+   "style_id": "cover-art",
+   "kind": "style",
+   "status": "complete",
+   "path": "images/portrait/cover-art.webp",
+   "seed": 123456789,
+   "width": 3072,
+   "height": 5472
+  },
+  "portrait/interplay-of-shadow-and-light": {
+   "base_prompt_id": "portrait",
+   "style_id": "interplay-of-shadow-and-light",
+   "kind": "style",
+   "status": "complete",
+   "path": "images/portrait/interplay-of-shadow-and-light.webp",
+   "seed": 123456789,
+   "width": 3072,
+   "height": 5472
+  },
+  "portrait/kekai-kotaki-style": {
+   "base_prompt_id": "portrait",
+   "style_id": "kekai-kotaki-style",
+   "kind": "style",
+   "status": "complete",
+   "path": "images/portrait/kekai-kotaki-style.webp",
+   "seed": 123456789,
+   "width": 3072,
+   "height": 5472
+  },
+  "portrait/robin-eley-style": {
+   "base_prompt_id": "portrait",
+   "style_id": "robin-eley-style",
+   "kind": "style",
+   "status": "complete",
+   "path": "images/portrait/robin-eley-style.webp",
+   "seed": 123456789,
+   "width": 3072,
+   "height": 5472
+  },
+  "portrait/dark-fantasy-illustration": {
+   "base_prompt_id": "portrait",
+   "style_id": "dark-fantasy-illustration",
+   "kind": "style",
+   "status": "complete",
+   "path": "images/portrait/dark-fantasy-illustration.webp",
+   "seed": 123456789,
+   "width": 3072,
+   "height": 5472
+  },
+  "portrait/expressive-character-illustration": {
+   "base_prompt_id": "portrait",
+   "style_id": "expressive-character-illustration",
+   "kind": "style",
+   "status": "complete",
+   "path": "images/portrait/expressive-character-illustration.webp",
+   "seed": 123456789,
+   "width": 3072,
+   "height": 5472
+  },
+  "portrait/splatterpunk-horror-illustration": {
+   "base_prompt_id": "portrait",
+   "style_id": "splatterpunk-horror-illustration",
+   "kind": "style",
+   "status": "complete",
+   "path": "images/portrait/splatterpunk-horror-illustration.webp",
+   "seed": 123456789,
+   "width": 3072,
+   "height": 5472
+  },
+  "portrait/james-jean-style": {
+   "base_prompt_id": "portrait",
+   "style_id": "james-jean-style",
+   "kind": "style",
+   "status": "complete",
+   "path": "images/portrait/james-jean-style.webp",
+   "seed": 123456789,
+   "width": 3072,
+   "height": 5472
+  },
+  "portrait/victo-ngai-style": {
+   "base_prompt_id": "portrait",
+   "style_id": "victo-ngai-style",
+   "kind": "style",
+   "status": "complete",
+   "path": "images/portrait/victo-ngai-style.webp",
+   "seed": 123456789,
+   "width": 3072,
+   "height": 5472
+  },
+  "portrait/kay-nielsen-style": {
+   "base_prompt_id": "portrait",
+   "style_id": "kay-nielsen-style",
+   "kind": "style",
+   "status": "complete",
+   "path": "images/portrait/kay-nielsen-style.webp",
+   "seed": 123456789,
+   "width": 3072,
+   "height": 5472
+  },
+  "portrait/hyper-stylized-digital-painting": {
+   "base_prompt_id": "portrait",
+   "style_id": "hyper-stylized-digital-painting",
+   "kind": "style",
+   "status": "complete",
+   "path": "images/portrait/hyper-stylized-digital-painting.webp",
+   "seed": 123456789,
+   "width": 3072,
+   "height": 5472
+  },
+  "portrait/movie-digital-art": {
+   "base_prompt_id": "portrait",
+   "style_id": "movie-digital-art",
+   "kind": "style",
+   "status": "complete",
+   "path": "images/portrait/movie-digital-art.webp",
+   "seed": 123456789,
+   "width": 3072,
+   "height": 5472
+  },
+  "portrait/loish-ultrarealism": {
+   "base_prompt_id": "portrait",
+   "style_id": "loish-ultrarealism",
+   "kind": "style",
+   "status": "complete",
+   "path": "images/portrait/loish-ultrarealism.webp",
+   "seed": 123456789,
+   "width": 3072,
+   "height": 5472
+  },
+  "portrait/abstract-expressionism": {
+   "base_prompt_id": "portrait",
+   "style_id": "abstract-expressionism",
+   "kind": "style",
+   "status": "complete",
+   "path": "images/portrait/abstract-expressionism.webp",
+   "seed": 123456789,
+   "width": 3072,
+   "height": 5472
+  },
+  "portrait/acrylic-dreamscape": {
+   "base_prompt_id": "portrait",
+   "style_id": "acrylic-dreamscape",
+   "kind": "style",
+   "status": "complete",
+   "path": "images/portrait/acrylic-dreamscape.webp",
+   "seed": 123456789,
+   "width": 3072,
+   "height": 5472
+  },
+  "portrait/adventure-illustration": {
+   "base_prompt_id": "portrait",
+   "style_id": "adventure-illustration",
+   "kind": "style",
+   "status": "complete",
+   "path": "images/portrait/adventure-illustration.webp",
+   "seed": 123456789,
+   "width": 3072,
+   "height": 5472
+  },
+  "portrait/agnes-cecile-style": {
+   "base_prompt_id": "portrait",
+   "style_id": "agnes-cecile-style",
+   "kind": "style",
+   "status": "complete",
+   "path": "images/portrait/agnes-cecile-style.webp",
+   "seed": 123456789,
+   "width": 3072,
+   "height": 5472
+  },
+  "portrait/monet-style": {
+   "base_prompt_id": "portrait",
+   "style_id": "monet-style",
+   "kind": "style",
+   "status": "complete",
+   "path": "images/portrait/monet-style.webp",
+   "seed": 123456789,
+   "width": 3072,
+   "height": 5472
+  },
+  "portrait/alphonse-mucha-masterwork": {
+   "base_prompt_id": "portrait",
+   "style_id": "alphonse-mucha-masterwork",
+   "kind": "style",
+   "status": "complete",
+   "path": "images/portrait/alphonse-mucha-masterwork.webp",
+   "seed": 123456789,
+   "width": 3072,
+   "height": 5472
+  },
+  "portrait/anato-finnstark-style": {
+   "base_prompt_id": "portrait",
+   "style_id": "anato-finnstark-style",
+   "kind": "style",
+   "status": "complete",
+   "path": "images/portrait/anato-finnstark-style.webp",
+   "seed": 123456789,
+   "width": 3072,
+   "height": 5472
+  },
+  "portrait/rembrandt-painting": {
+   "base_prompt_id": "portrait",
+   "style_id": "rembrandt-painting",
+   "kind": "style",
+   "status": "complete",
+   "path": "images/portrait/rembrandt-painting.webp",
+   "seed": 123456789,
+   "width": 3072,
+   "height": 5472
+  },
+  "portrait/art-deco-gold-highlights": {
+   "base_prompt_id": "portrait",
+   "style_id": "art-deco-gold-highlights",
+   "kind": "style",
+   "status": "complete",
+   "path": "images/portrait/art-deco-gold-highlights.webp",
+   "seed": 123456789,
+   "width": 3072,
+   "height": 5472
+  },
+  "portrait/ashley-wood-illustration": {
+   "base_prompt_id": "portrait",
+   "style_id": "ashley-wood-illustration",
+   "kind": "style",
+   "status": "complete",
+   "path": "images/portrait/ashley-wood-illustration.webp",
+   "seed": 123456789,
+   "width": 3072,
+   "height": 5472
+  },
+  "portrait/tenebrism": {
+   "base_prompt_id": "portrait",
+   "style_id": "tenebrism",
+   "kind": "style",
+   "status": "complete",
+   "path": "images/portrait/tenebrism.webp",
+   "seed": 123456789,
+   "width": 3072,
+   "height": 5472
+  },
+  "portrait/chiaroscuro": {
+   "base_prompt_id": "portrait",
+   "style_id": "chiaroscuro",
+   "kind": "style",
+   "status": "complete",
+   "path": "images/portrait/chiaroscuro.webp",
+   "seed": 123456789,
+   "width": 3072,
+   "height": 5472
+  },
+  "portrait/bill-sienkiewicz-expressionism": {
+   "base_prompt_id": "portrait",
+   "style_id": "bill-sienkiewicz-expressionism",
+   "kind": "style",
+   "status": "complete",
+   "path": "images/portrait/bill-sienkiewicz-expressionism.webp",
+   "seed": 123456789,
+   "width": 3072,
+   "height": 5472
+  },
+  "portrait/graffiti-painting": {
+   "base_prompt_id": "portrait",
+   "style_id": "graffiti-painting",
+   "kind": "style",
+   "status": "complete",
+   "path": "images/portrait/graffiti-painting.webp",
+   "seed": 123456789,
+   "width": 3072,
+   "height": 5472
+  },
+  "portrait/2020s-pin-up": {
+   "base_prompt_id": "portrait",
+   "style_id": "2020s-pin-up",
+   "kind": "style",
+   "status": "complete",
+   "path": "images/portrait/2020s-pin-up.webp",
+   "seed": 123456789,
+   "width": 3072,
+   "height": 5472
+  },
+  "portrait/hyperrealism": {
+   "base_prompt_id": "portrait",
+   "style_id": "hyperrealism",
+   "kind": "style",
+   "status": "complete",
+   "path": "images/portrait/hyperrealism.webp",
+   "seed": 123456789,
+   "width": 3072,
+   "height": 5472
+  },
+  "portrait/ultrarealism": {
+   "base_prompt_id": "portrait",
+   "style_id": "ultrarealism",
+   "kind": "style",
+   "status": "complete",
+   "path": "images/portrait/ultrarealism.webp",
+   "seed": 123456789,
+   "width": 3072,
+   "height": 5472
+  },
+  "portrait/casey-baugh-style": {
+   "base_prompt_id": "portrait",
+   "style_id": "casey-baugh-style",
+   "kind": "style",
+   "status": "complete",
+   "path": "images/portrait/casey-baugh-style.webp",
+   "seed": 123456789,
+   "width": 3072,
+   "height": 5472
+  },
+  "portrait/commercial-illustration": {
+   "base_prompt_id": "portrait",
+   "style_id": "commercial-illustration",
+   "kind": "style",
+   "status": "complete",
+   "path": "images/portrait/commercial-illustration.webp",
+   "seed": 123456789,
+   "width": 3072,
+   "height": 5472
+  },
+  "portrait/giallo-poster-art": {
+   "base_prompt_id": "portrait",
+   "style_id": "giallo-poster-art",
+   "kind": "style",
+   "status": "complete",
+   "path": "images/portrait/giallo-poster-art.webp",
+   "seed": 123456789,
+   "width": 3072,
+   "height": 5472
+  },
+  "portrait/grindhouse-poster-illustration": {
+   "base_prompt_id": "portrait",
+   "style_id": "grindhouse-poster-illustration",
+   "kind": "style",
+   "status": "complete",
+   "path": "images/portrait/grindhouse-poster-illustration.webp",
+   "seed": 123456789,
+   "width": 3072,
+   "height": 5472
+  },
+  "portrait/watercolor-painting": {
+   "base_prompt_id": "portrait",
+   "style_id": "watercolor-painting",
+   "kind": "style",
+   "status": "complete",
+   "path": "images/portrait/watercolor-painting.webp",
+   "seed": 123456789,
+   "width": 3072,
+   "height": 5472
+  },
+  "portrait/contemporary-oil-painting": {
+   "base_prompt_id": "portrait",
+   "style_id": "contemporary-oil-painting",
+   "kind": "style",
+   "status": "complete",
+   "path": "images/portrait/contemporary-oil-painting.webp",
+   "seed": 123456789,
+   "width": 3072,
+   "height": 5472
+  },
+  "portrait/thick-brushstrokes-painting": {
+   "base_prompt_id": "portrait",
+   "style_id": "thick-brushstrokes-painting",
+   "kind": "style",
+   "status": "complete",
+   "path": "images/portrait/thick-brushstrokes-painting.webp",
+   "seed": 123456789,
+   "width": 3072,
+   "height": 5472
+  },
+  "portrait/niji-v7-semi-real-anime": {
+   "base_prompt_id": "portrait",
+   "style_id": "niji-v7-semi-real-anime",
+   "kind": "style",
+   "status": "complete",
+   "path": "images/portrait/niji-v7-semi-real-anime.webp",
+   "seed": 123456789,
+   "width": 3072,
+   "height": 5472
+  },
+  "portrait/soft-flash-pastel-fashion-photography": {
+   "base_prompt_id": "portrait",
+   "style_id": "soft-flash-pastel-fashion-photography",
+   "kind": "style",
+   "status": "complete",
+   "path": "images/portrait/soft-flash-pastel-fashion-photography.webp",
+   "seed": 123456789,
+   "width": 3072,
+   "height": 5472
+  }
+ }
+}

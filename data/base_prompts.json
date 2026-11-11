@@ -1,0 +1,15 @@
+{
+ "schema_version": 1,
+ "prompt_template": "Subject: {base_prompt}\n\nStyle: {style_name}. {style_descriptor}",
+ "prompts": [
+  {
+   "id": "portrait",
+   "label": "Portrait",
+   "prompt": "a middle-aged man in a linen shirt, seated at a small table inside a cozy old town coffee shop, an espresso cup in front of him, warm window light from the left, shelves of jars and a chalkboard menu in the background, side angle, looking at the viewer",
+   "seed": 123456789,
+   "width": 3072,
+   "height": 5472,
+   "enabled": true
+  }
+ ]
+}
