@@ -26,6 +26,12 @@
   let touchGesture = null;
   let touchNavigationTimer = null;
 
+  function track(name, label, extra) {
+    try {
+      (window.dataLayer = window.dataLayer || []).push({ event: name, event_label: String(label || ''), extra: extra || '' });
+    } catch (_) {}
+  }
+
   function loadFavorites() {
     try {
       const value = JSON.parse(localStorage.getItem(FAVORITES_KEY) || '[]');
@@ -301,6 +307,7 @@
         await copyToClipboard(text);
         button.classList.add('copied');
         showNotice(`Copied ${style.name}.`);
+        track('copy_style', style.name);
         setTimeout(() => button.classList.remove('copied'), 1400);
       } catch (_) {
         showNotice('The style prompt could not be copied in this browser.');
@@ -346,6 +353,7 @@
       else state.favorites.add(style.id);
       saveFavorites();
       updateFavoriteButton(button, style);
+      track('favorite', style.id, state.favorites.has(style.id) ? 'add' : 'remove');
 
       const rows = filteredStyles();
       if ($('#favorites-only').checked) {
@@ -405,6 +413,7 @@
   }
 
   function openImageViewer(image) {
+    track('view_image', image.dataset.viewerStyleName || image.alt);
     const viewer = $('#image-viewer');
     viewerImages = [...document.querySelectorAll('#catalog .image-wrap img')];
     viewerIndex = viewerImages.indexOf(image);
