@@ -52,16 +52,6 @@
    ]
   },
   {
-   "id": "granblue-fantasy-pin-up-style",
-   "order": 6,
-   "name": "Granblue Fantasy Pin-Up Style",
-   "descriptor": "A richly detailed JRPG character-illustration style built on crisp painterly linework blended seamlessly into soft airbrushed shading, glossy semi-realistic rendering that gives skin and hair a polished, luminous finish without tipping into full photorealism, confident glamorous pin-up posing framed with clean graphic composition, delicately layered ornamental costume detail rendered with meticulous craftsmanship, and a vibrant, high-production mobile-gacha polish that feels equally at home as key art and collectible card illustration. Influenced by: Minaba Hideo, Cygames character-art direction, JRPG gacha illustration technique, semi-realistic anime rendering.",
-   "categories": [
-    "Anime & Manga",
-    "Illustration"
-   ]
-  },
-  {
    "id": "manga-style",
    "order": 7,
    "name": "Manga Style",
@@ -1678,16 +1668,6 @@
    "order": 170,
    "name": "Marvel Cover Art",
    "descriptor": "A striking, poster-worthy superhero illustration style built for maximum newsstand impact, dramatic hero-forward composition with bold dynamic posing thrust toward the viewer, richly rendered digital painting or ink-and-color hybrid technique giving weight and polish beyond interior panel art, saturated high-contrast color palettes anchored by an iconic focal color, dramatic rim lighting and glowing effects framing the central figure against a moody or explosive backdrop, and a bold, hyper-marketable heroic grandeur designed to sell a single unforgettable image. Influenced by: Alex Ross, J. Scott Campbell, Marvel Comics cover art direction, comic-cover painting technique.",
-   "categories": [
-    "Comics & Graphic Novels",
-    "Illustration"
-   ]
-  },
-  {
-   "id": "milo-manara-style",
-   "order": 171,
-   "name": "Milo Manara Style",
-   "descriptor": "An elegant, sensuous comic-illustration style built on fluid, confident linework that traces the female form with graceful anatomical precision, delicate fine crosshatching used sparingly to suggest shadow and volume rather than heavy rendering, warm sun-bleached Mediterranean color palettes applied in soft watercolor-like washes, playful, flirtatious poses charged with lighthearted erotic tension, and a refined, painterly European comic-book sensuality that feels classic yet unmistakably illustrated. Influenced by: Milo Manara, Italian fumetti comic art, Mediterranean watercolor illustration, erotic graphic-novel linework.",
    "categories": [
     "Comics & Graphic Novels",
     "Illustration"

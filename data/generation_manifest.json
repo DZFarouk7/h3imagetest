@@ -62,16 +62,6 @@
    "width": 3072,
    "height": 5472
   },
-  "portrait/granblue-fantasy-pin-up-style": {
-   "base_prompt_id": "portrait",
-   "style_id": "granblue-fantasy-pin-up-style",
-   "kind": "style",
-   "status": "complete",
-   "path": "images/portrait/granblue-fantasy-pin-up-style.webp",
-   "seed": 123456789,
-   "width": 3072,
-   "height": 5472
-  },
   "portrait/manga-style": {
    "base_prompt_id": "portrait",
    "style_id": "manga-style",
@@ -1708,16 +1698,6 @@
    "kind": "style",
    "status": "complete",
    "path": "images/portrait/marvel-cover-art.webp",
-   "seed": 123456789,
-   "width": 3072,
-   "height": 5472
-  },
-  "portrait/milo-manara-style": {
-   "base_prompt_id": "portrait",
-   "style_id": "milo-manara-style",
-   "kind": "style",
-   "status": "complete",
-   "path": "images/portrait/milo-manara-style.webp",
    "seed": 123456789,
    "width": 3072,
    "height": 5472
